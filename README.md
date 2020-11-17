@@ -1,7 +1,7 @@
 # Gelişmiş Ağ Tarama Aracı: NScanMap
 # NScanMap Nedir?
 
-![resim](https://github.com/saricayemre/nscanmap/blob/main/resim.png?raw=true)
+![resim](https://github.com/saricayemre/nscanmap/blob/main/resimler/resim.png?raw=true)
 
 NScanMap, nmap tabanlı ağ keşif programıdır. python dili ile kodlanmıştır. Nmap aracının içinde bulunan tüm ramaları tek komutile kullanamya yarar ve tarama sonuçlarını raporlar. Bu araç ile NMap'ın komutlarını tek tek girmenize gerek yoktur. Sadece programı çalıştırarak Nmap içerisinde bulunan en popler ve işe yarar taramaların sonuçlarını kullanıcıya gösterir. 
 
@@ -41,7 +41,7 @@ Portların bağlantı noktası taraması yapmamızı sağlayan taramadır ve son
 
 # Kullanımı
 
-![indexgif](https://github.com/saricayemre/nscanmap/blob/main/index.gif?raw=true)
+![indexgif](https://github.com/saricayemre/nscanmap/blob/main/resimler/index.gif?raw=true)
 
 ```
 cd NScanMap/
