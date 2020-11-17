@@ -1,0 +1,5 @@
+python3-pip
+python-nmap
+python3-nmap
+colorama
+time
